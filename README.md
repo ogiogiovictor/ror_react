@@ -122,9 +122,9 @@ To get a local copy up and running, follow these steps.
 
 👤 **Wander Gonzalez**
 
-- GitHub: [@wandergithub](https://github.com/wandergithub)
-- Twitter: [@wanderklk1](https://twitter.com/wanderklk1)
-- LinkedIn: [Wander A. Gonzalez](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)
+- GitHub: [@githubhandle](https://github.com/ogiogiovictor)
+- Twitter: [@twitterhandle](https://twitter.com/ogiogiovictor)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ogiogiovictor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
